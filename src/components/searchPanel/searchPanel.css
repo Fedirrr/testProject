@@ -1,0 +1,11 @@
+.searchPanel {
+    display: flex;
+}
+
+.searchPanelWrapper {
+    margin: 10px;
+}
+
+.submitBtn {
+    margin-left: 10px;
+}

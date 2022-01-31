@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pageItem {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.footer {
+    height: 20px;
+    margin-top: 40px;
+}
+
+.pageLink {
+    color: black;
+}
+
+.pageItem {
+    cursor: pointer;
+}
